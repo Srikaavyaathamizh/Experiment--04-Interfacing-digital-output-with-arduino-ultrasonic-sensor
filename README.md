@@ -118,6 +118,8 @@ duration=pulseIn(echoPin,HIGH);
 
 			
 			Average error = sum/ number of readings 
+   mean=(-0.5+1.1+0.7+0.7+0.9)/5=0.58
+   
  
 
 
